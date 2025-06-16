@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Engineer** currently
 
 ## 🛠 Tech Stack
 - **Frontend:** React, React Native, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, Django, Flask
-- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Backend:** Java Spring Boot, Node.js, Express, Django, Flask
+- **Databases:** PostgreSQL, MongoDB
 - **DevOps & Cloud:** Docker, AWS, Kubernetes
 - **Other:** Swift (iOS), Unity (AR/VR), Python (AI/ML), GraphQL
 
