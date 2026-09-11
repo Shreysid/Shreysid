@@ -25,7 +25,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Engineer** currently
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shreyas-sid/)
 - 🐦 [Twitter](https://x.com/shreysid2352)
-- 🌐 [Portfolio](https://shreyas-portfoliobio.vercel.app)
+- 🌐 [Portfolio](https://shreyas.ink)
+- [Medium](https://medium.com/@shreysid2352)
 
 Feel free to check out my repositories and collaborate on cool projects! 🚀🔥
 
