@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Engineer** currently
 - **DevOps & Cloud:** Docker, AWS, Kubernetes
 - **Other:** Swift (iOS), Unity (AR/VR), Python (AI/ML), GraphQL
 
-## 📈 GitHub Stats
-![Shreysid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreysid&show_icons=true&theme=prussian)
-
 ## 🌱 Currently Learning
 - Advanced Cloud Computing & DevOps
 - AI & ML Model Deployment
